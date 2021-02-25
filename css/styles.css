@@ -123,13 +123,10 @@ button {
 }
 
 .form-group {
-    margin: auto 25px;
-    padding: 10px;
-    padding: 7px 6px;
-    margin: 5px 0;
     display: flex;
     justify-content: center;
     align-items: center;
+    margin: 10px 20px;
 }
 
 #submit {
